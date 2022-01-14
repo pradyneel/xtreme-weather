@@ -4,7 +4,7 @@ An automatic email generated with user's location and the locations's temperatur
 The app uses [Open weather map](https://openweathermap.org/api) to get temperature the location.
 
 ### Run the APP
-- Once clone the app in local repository and installed the dependencies mentioned in requirements.txt. Enter the following in terminal:
+- Once cloned the app in local repository and installed the dependencies mentioned in requirements.txt. Enter the following in terminal:
 ```
 python manage.py makemigrations
 python manage.py migrate
